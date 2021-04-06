@@ -38,6 +38,23 @@ TEAM
 2. Finish Apparel Skyling
 3. Spacial Audio objects and environments
 4. Art Deco Notion Doc
+5. Clients team: Examples of art that doesn’t look professional?
+Station 13 - Evelyn
+We think the pixel art doesn’t look good — structural issue assets melted by gather
+its making the arts team return on investment not worth it
+some percentage returned that is less than what is put in
+we have to fix this eventually and we have to fix it sooner rather than later
+it puts people off
+we don’t understand what the impact is on customers yet but some day we will have to fix this
+it will be worse later to fix
+cosmetic upgrade
+the longer we go without fixing this will potentially lock us in to not fixing this
+vic take a look and take a look at what is happening and what is causing this
+we don’t know the risk yet, a portion of vic cycle should be directed to investigating this and a breaking change must be potentially implemented to find the effect.
+map data format and preserve old functionality. 
+better sooner rather than later. we’d like to update the map format (to users) would you like to opt into that even if it breaks things. 
+
+
 
 
 Gather Challenge Artist Submissions Notes:
